@@ -1,6 +1,6 @@
 # ProjetosComputacaoGrafica
 
-Repositorio para atividades de Computação Grafica
+Repositorio para atividades de Computacao Grafica
 
 Nome: Natalia Nunes Jahnke
 
