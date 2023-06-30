@@ -14,3 +14,9 @@ Entrega da Tarefa 2 - Vivencial
 
  Entrega da Tarefa 4 - Hello3D - Phong
 
+ Entrega da Tarefa 5 - Hello3D - Camera
+
+ Entrega da Tarefa 6 - Hello3D - Trajetorias
+
+
+
